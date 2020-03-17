@@ -21,7 +21,7 @@ div {
 
 
 #back-img {
-    width: 190px;
+    width: 100px;
     padding-left: 2px;
 }
 
@@ -39,7 +39,7 @@ div {
 }
 
 #title {
-    margin-left: 16px;
+    /* margin-left: 16px; */
     font-size: 30px;
     font-weight: bold;
 }
@@ -84,6 +84,7 @@ div {
     margin-bottom: 48px;
 }
 
+
 #down-arrow {
     margin-left: 136px;
     height: 95px;
@@ -106,6 +107,19 @@ div {
 #tasks-list li {
     font-size: 20px;
     margin-bottom: 8px;
+    font-weight: 300;
+    color: #938D8D;
+}
+
+#features-list {
+    list-style-type: none;
+    padding-left: 0px;
+    margin-top: 16px;
+}
+
+#features-list li {
+    font-size: 20px;
+    margin-bottom: 16px;
     font-weight: 300;
     color: #938D8D;
 }
