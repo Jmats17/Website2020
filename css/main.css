@@ -44,6 +44,7 @@ h2 {
 #tertiary-intro {
     margin-top: 0px;
     margin-bottom: 32px;
+    text-align: center;
     animation: 1.3s ease-out 0s 1 slideInFromRight;
 }
 
@@ -53,7 +54,7 @@ h2 {
     height: 85%;
     background-image: linear-gradient(#85D8CE,#085078);
     border-style: solid;
-    border-width: 11px;
+    border-width: 8px;
     border-color: #575656;
     border-radius: 30px     30px      0           0;
     border-bottom: none;
